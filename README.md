@@ -1,1 +1,2 @@
-# -
+image_google.pyを実行し、できたファイルの中にoriginalとmosaicを作成し、originalの中にネットからとってきた写真データを入れる。
+その後、逐次処理がimage2mosaic.py、並列処理がimage2mosaic_Process.pyとimage2mosaic_Thread.pyを実行。
