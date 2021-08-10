@@ -1,0 +1,12 @@
+(base) hinoueyuuya@higamiyuuyas-MacBook-Pro 最終課題 % python image2mosaic.py
+メモリの使用率は70.0
+CPUの使用率は8.1
+Finished in 12.494765758514404 seconds.
+(base) hinoueyuuya@higamiyuuyas-MacBook-Pro 最終課題 % python image2mosaic_Thread.py
+メモリの使用率は67.9
+CPUの使用率は7.7
+Finished in 8.989362955093384 seconds.
+(base) hinoueyuuya@higamiyuuyas-MacBook-Pro 最終課題 % python image2mosaic_Process.py
+メモリの使用率は68.7
+CPUの使用率は9.2
+Finished in 8.840494155883789 seconds.
